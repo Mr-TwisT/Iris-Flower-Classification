@@ -43,6 +43,6 @@ Poniżej znajduje się wizualizacja wyuczonego **drzewa decyzyjnego**, która po
 
 ### 🚀 Jak uruchomić projekt?
 
-1. Sklonuj repozytorium: git clone [https://github.com/Mr-TwisT/Iris-Flower-Classification](https://github.com/Mr-TwisT/Iris-Flower-Classification)
+1. Sklonuj repozytorium: git clone [https://github.com/Mr-TwisT/Iris-Flower-Classification.git](https://github.com/Mr-TwisT/Iris-Flower-Classification.git)
 2. Zainstaluj wymagane biblioteki.
 3. Otwórz plik .ipynb w Jupyter Notebook lub Google Colab.
