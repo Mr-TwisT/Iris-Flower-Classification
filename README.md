@@ -29,11 +29,11 @@ Poniżej znajduje się wizualizacja wyuczonego **drzewa decyzyjnego**, która po
 
 ### 🛠️ Użyte Narzędzia i Techniki
 
-**Python:** Główne narzędzie analizy.
+- **Python:** Główne narzędzie analizy.
 
-**Pandas:** Zaawansowane manipulacje danymi.
+- **Pandas:** Zaawansowane manipulacje danymi.
 
-**Seaborn & Matplotlib:** Profesjonalne wizualizacje.
+- **Seaborn & Matplotlib:** Profesjonalne wizualizacje.
 
 ### 📂 Struktura Repozytorium
 
@@ -43,6 +43,6 @@ Poniżej znajduje się wizualizacja wyuczonego **drzewa decyzyjnego**, która po
 
 ### 🚀 Jak uruchomić projekt?
 
-1. Sklonuj repozytorium: git clone https://github.com/Mr-TwisT/iris
+1. Sklonuj repozytorium: git clone [https://github.com/Mr-TwisT/Iris-Flower-Classification](https://github.com/Mr-TwisT/Iris-Flower-Classification)
 2. Zainstaluj wymagane biblioteki.
 3. Otwórz plik .ipynb w Jupyter Notebook lub Google Colab.
